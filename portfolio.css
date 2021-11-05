@@ -22,13 +22,13 @@ html, body {
     src: url('./Fonts/Montserrat-Regular.ttf');
 }
 
-/*CSS*/
-/*Website*/
+/* CSS */
+/* Website */
 .website {
     display: flex;
     flex-flow: row wrap;
 }
-/*Header*/
+/* Header */
 .header {
     width: 9%;
     height: 100%;
@@ -38,7 +38,7 @@ html, body {
     z-index: 2;
     color: var(--white1);
 }
-/*Content / Footer*/
+/* Content / Footer */
 .content, .footer {
     width: 91%;
     height: auto;
@@ -52,7 +52,7 @@ html, body {
     height: auto;
     opacity: 0.8;
 }
-/*Header links*/
+/* Header links */
 .links {
     display: flex;
     flex-flow: column wrap;
@@ -79,7 +79,7 @@ html, body {
     text-decoration: none;
     background-color: var(--black);
 }
-/*Title*/
+/* Title */
 .title {
     text-align: center;
     padding: 0.75em 0 0;
@@ -92,7 +92,7 @@ html, body {
     width: 100%;
     height: auto;
 }
-/*Divider line*/
+/* Divider line */
 .divider {
     width: 25%;
     height: 1.5px;
@@ -102,11 +102,11 @@ html, body {
 .name-text {
     opacity: 0.6;
 }
-/*Skills title*/
+/* Skills title */
 .skills-title {
     padding: 0.75em 0;
 }
-/*Progress bars*/
+/* Progress bars */
 .progress-bar {
     width: 100%;
     height: 22px;
@@ -129,7 +129,7 @@ html, body {
 .ps {
     width: 75%;
 }
-/*Work history*/
+/* Work history */
 .work-history {
     width: 100%;
     height: auto;
@@ -144,7 +144,7 @@ html, body {
     -ms-border-radius: 2.5px;
     -o-border-radius: 2.5px;
 }
-/*Works*/
+/* Works */
 .works {
     width: 25%;
     padding: 1em 0;
@@ -161,7 +161,7 @@ html, body {
     background-color: var(--black3);
     color: var(--white1);
 }
-/*Download button*/
+/* Download button */
 .download-btn {
     color: var(--black);
     padding: 0.75rem 1.25rem;
@@ -184,7 +184,7 @@ html, body {
     background-color: var(--black3);
     color: var(--white1);
 }
-/*Price / Reputation*/
+/* Price / Reputation */
 .price-title, .reputation {
     padding: 1.75em 0 1em;
 }
@@ -211,7 +211,7 @@ html, body {
     border-top-left-radius: 2.5px;
     border-top-right-radius: 2.5px;
 }
-/*Option features*/
+/* Option features */
 .option-features {
     width: 100%;
     padding: 1rem;
@@ -230,12 +230,12 @@ html, body {
 .price-number {
     font-size: 25pt;
 }
-/*Sign up*/
+/* Sign up */
 .signUp {
     border-bottom-left-radius: 2.5px;
     border-bottom-right-radius: 2.5px;
 }
-/*Option button*/
+/* Option button */
 .option-btn {
     border: none;
     border-radius: 2.5px;
@@ -256,7 +256,7 @@ html, body {
     background-color: var(--black);
     color: var(--white1);
 }
-/*Reputation list*/
+/* Reputation list */
 .reputation-list {
     list-style-type: none;
 }
@@ -278,7 +278,7 @@ html, body {
     line-height: 2.25em;
     opacity: 0.6;
 }
-/*Photos / Contact*/
+/* Photos / Contact */
 .photos, .contact {
     padding: 3em 0 0;
 }
@@ -309,7 +309,7 @@ html, body {
     -ms-border-radius: 5px;
     -o-border-radius: 5px;
 }
-/*Information*/
+/* Information */
 .info {
     list-style-type: none;
     display: flex;
@@ -325,7 +325,7 @@ html, body {
     font-size: 27.5px;
     width: 50px;
 }
-/*Form*/
+/* Form */
 .form-control {
     padding-left: 3em;
 }
@@ -341,7 +341,7 @@ html, body {
 #Message {
     background: var(--white1) url('./Pictures/message-30.png') 5px 4px no-repeat;
 }
-/*Submit button*/
+/* Submit button */
 .submit-btn {
     padding: 0.5rem 1.5em;
     border: none;
@@ -362,12 +362,12 @@ html, body {
     background-color: var(--black3);
     color: var(--white1);
 }
-/*Footer*/
+/* Footer */
 .footer {
     background-color: var(--black2);
     padding: 2.5em 0;
 }
-/*Social links*/
+/* Social links */
 .social-links {
     display: flex;
     flex-flow: row wrap;

@@ -1,7 +1,7 @@
 /* (Responsive)*/
 /* Mobile (small) */
 @media screen and (min-width:320px) and (max-width:374px) {
-    /*Header*/
+    /* Header */
     .header {
         width: 100%;
         height: auto;
@@ -9,7 +9,7 @@
     .header-image {
         display: none;
     }
-    /*Links*/
+    /* Links */
     .links {
         flex-flow: row wrap;
     }
@@ -22,13 +22,13 @@
     .links i {
         display: none;
     }
-    /*Content*/
+    /* Content */
     .content {
         width: 100%;
         height: auto;
         margin: 40px 0 0;
     }
-    /*Items width*/
+    /* Items width */
     .title {
         padding: 0.25em 0 0;
     }
@@ -58,7 +58,7 @@
     .column2 {
         margin-top: 1em;
     }
-    /*Footer*/
+    /* Footer */
     .footer {
         width: 100%;
         margin: 0;

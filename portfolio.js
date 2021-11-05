@@ -1,7 +1,7 @@
-/*JQuery*/
+// JQuery
 $.noConflict()
 jQuery(document).ready(function($) {
-    //Smooth scroll
+    // Smooth scroll
     $('.links a').on('click', function(event) {
         if (this.hash !== '') {
             event.preventDefault();
@@ -14,8 +14,8 @@ jQuery(document).ready(function($) {
 });
 })
 
-/*JavaScript*/
-//Sticky menu background
+// JavaScript
+// Sticky menu background
 window.addEventListener('scroll', function() {
     if (window.scrollY > 40) {
         document.querySelector('.header-mobile').style.opacity = 0.9;
